@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](https://github.com/ananyachats05/ananyachats05/blob/main/assets/github-header-image-new.png)
 
 <!--
 **ananyachats05/ananyachats05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
