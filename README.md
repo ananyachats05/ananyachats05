@@ -14,8 +14,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyachat23@gmail.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnanyaChats05/AnanyaChats05/main/assets/wavy-line.svg" alt="divider" width="100%" />
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    Welcome to my profile! 🌟 Explore my projects and contributions. 🎀
+  </marquee>
 </p>
+
+
 
 
 ### Languages and Tools:
@@ -27,7 +31,7 @@
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF4500?style=for-the-badge&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnanyaChats05/AnanyaChats05/main/assets/wavy-line.svg" alt="divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/ananyachats05/ananyachats05/refs/heads/main/assets/intersecting-waves-scattered.svg" alt="Intersecting Wave Layers" width="100%" />
 </p>
 
 
